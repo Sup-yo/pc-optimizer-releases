@@ -10,7 +10,7 @@ Early test builds of PC Optimizer, a game booster for Windows 10 and 11.
 
 1. Run the file you downloaded.
 2. Windows will say **"Windows protected your PC"**, because the app isn't signed yet. Click **More info**, then **Run anyway**.
-3. If your antivirus blocks or removes it, tell me which antivirus. Don't turn your antivirus off to get round it.
+3. If your antivirus blocks or removes it, tell me which antivirus. Don't turn your antivirus off to get around it.
 
 You only install once. After that the app updates itself: it shows a notification, and **Settings > Install update** does the rest. Your settings are kept.
 
